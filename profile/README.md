@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250/0e75b6/ffffff?text=SCL+—+Swizr+Container+Line" alt="SCL Banner"/>
+  <img src="https://raw.githubusercontent.com/SwizrContainer/.github/refs/heads/main/profile/scl-bar.png" alt="SCL Banner"/>
 </p>
 
 <h1 align="center">SCL — Swizr Container Line</h1>
